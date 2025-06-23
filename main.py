@@ -11,7 +11,7 @@ beta: A geometric factor
 Standard values are: sigma=10, beta=8/3, rho=28
 '''
 
-def lorenz(t, state, sigma=10, beta=8/3, rho=28): # Standard values for sigma, beta, rho
+def lorenz(t, state, sigma=10, beta=8/3, rho=28):
     x, y, z = state
     dxdt = sigma * (y - x)
     dydt = x * (rho - z) - y
