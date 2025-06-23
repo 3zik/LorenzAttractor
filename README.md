@@ -6,3 +6,5 @@ The Lorenz Attractor is a set of ODEs.  It is notable for having chaotic solutio
 The model is a system of three ordinary differential equations now known as the Lorenz equations:
 
 $$ \frac{dx}{dt} = \sigma (y-x) $$
+$$ \frac{dy}{dt} = x(\rho - z) - y $$
+$$ \frac{dx}{dt} = xy- \beta z$$
