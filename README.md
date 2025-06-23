@@ -8,3 +8,6 @@ The model is a system of three ordinary differential equations now known as the 
 $$ \frac{dx}{dt} = \sigma (y-x) $$
 $$ \frac{dy}{dt} = x(\rho - z) - y $$
 $$ \frac{dx}{dt} = xy- \beta z$$
+
+
+From a technical standpoint, the Lorenz system is nonlinear, aperiodic, three-dimensional and deterministic.
