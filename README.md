@@ -5,4 +5,4 @@ The Lorenz Attractor is a set of ODEs.  It is notable for having chaotic solutio
 
 The model is a system of three ordinary differential equations now known as the Lorenz equations:
 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+$$ {dx} \over {dt} = \sigma (y-x) $$
