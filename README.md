@@ -1,1 +1,2 @@
-# LorenzAttractor
+Lorenz Attractor
+
